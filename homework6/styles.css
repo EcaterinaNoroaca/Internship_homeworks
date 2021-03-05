@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    justify-content: flex-start;}
+p {   
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
