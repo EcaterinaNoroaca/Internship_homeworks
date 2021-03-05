@@ -1,4 +1,4 @@
-export class BookList{
+export default class BookList{
     numberOfReadBooks = 0;
     numberOfUnreadBooks = 0;
     NextBook;

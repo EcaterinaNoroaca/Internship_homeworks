@@ -1,5 +1,5 @@
-import {Book} from './book.js';
-import {BookList} from './booklist.js';
+import Book from './book.js';
+import BookList from './booklist.js';
 
 const book1 = new Book("Too Good To Be True","mistery","Carola Lovering", "10.10.20");
 const book2 = new Book("The Survivors","drama","Jane Harper", "10.02.20");
