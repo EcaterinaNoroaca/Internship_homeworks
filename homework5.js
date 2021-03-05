@@ -1,23 +1,4 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable max-classes-per-file */
-/* eslint-disable linebreak-style */
-/* eslint-disable no-unused-vars */
-/* eslint-disable linebreak-style */
-/* eslint-disable no-plusplus */
-/* eslint-disable linebreak-style */
-// eslint-disable-next-line linebreak-style
-/* eslint-disable max-len */
-/* eslint-disable linebreak-style */
-/* eslint-disable no-restricted-syntax */
-/* eslint-disable linebreak-style */
-/* eslint-disable camelcase */
-/* eslint-disable linebreak-style */
-/* eslint-disable no-param-reassign */
-/* eslint-disable no-shadow */
-/* eslint-disable no-undef */
-/* eslint-disable guard-for-in */
-/* eslint-disable linebreak-style */
-/* eslint-disable no-console */
+
 class BookList{
   numberOfReadBooks = 0;
   numberOfUnreadBooks = 0;
