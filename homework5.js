@@ -78,8 +78,6 @@ booklist.add(book5);
 booklist.finishCurrentBook();
 booklist.finishCurrentBook();
 booklist.finishCurrentBook();
-booklist.finishCurrentBook();
-booklist.finishCurrentBook();
 
 console.log("Number of read books : ".concat(booklist.numberOfReadBooks));
 console.log("Number of unread books : ".concat(booklist.numberOfUnreadBooks));
